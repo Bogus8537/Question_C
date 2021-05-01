@@ -1,5 +1,5 @@
 // What happend if I use the function "scanf" twice and print it?
-// Then the first string I input will be stayed in the variable "str" or gone?
+// Then the first string I input would be stayed in the variable "str" or gone?
 // In my think, the first string'd be stayed in "str"...
 // If it stayed then how can I check it?
 
